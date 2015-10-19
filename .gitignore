@@ -2,4 +2,5 @@ _site
 .sass-cache
 _config.yml
 emails
+common
 s3_website.yml
