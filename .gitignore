@@ -1,5 +1,4 @@
 _site
 .sass-cache
 _config.yml
-emails
 s3_website.yml
